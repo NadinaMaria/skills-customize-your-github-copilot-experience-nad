@@ -65,6 +65,13 @@
       "description": "Create REST API endpoints with FastAPI and manage task records.",
       "path": "assignments/building-rest-apis-with-fastapi",
       "dueDate": "2026-11-12"
+    },
+    {
+      "id": "persisting-api-data-with-sqlite",
+      "title": "Persisting API Data with SQLite",
+      "description": "Extend the FastAPI task API to store task records in SQLite and preserve them across restarts.",
+      "path": "assignments/persisting-api-data-with-sqlite",
+      "dueDate": "2026-11-12"
     }
   ]
 }
